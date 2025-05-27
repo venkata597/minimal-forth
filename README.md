@@ -39,7 +39,7 @@ This is a simple stack-based interpreter written in C++. It supports basic arith
 
 ## File Structure
 
-- `main.cpp` (your provided code): Contains the complete implementation including:
+- `main.cpp`: Contains the complete implementation including:
   - Stack class using singly linked list
   - Lexer, parser, and interpreter
   - Instruction handlers
